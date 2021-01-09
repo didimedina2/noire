@@ -314,6 +314,10 @@ a {
     margin: 48px;
     grid-row-gap: 48px;
   }
+
+  .principles-container {
+    grid-row-gap: 24px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -375,6 +379,10 @@ a {
     grid-row-gap: 32px;
   }
 
+  .principles-container {
+    grid-row-gap: 20px;
+  }
+
   .logo-img {
     height: 24px;
   }
@@ -399,6 +407,10 @@ a {
   .grid-container {
     margin: 24px;
     grid-row-gap: 24px;
+  }
+
+  .principles-container {
+    grid-row-gap: 16px;
   }
 }
 
